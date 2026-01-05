@@ -6,8 +6,8 @@
 
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'student_assistant');
-define('DB_USER', 'MahmoudPHP');
-define('DB_PASS', 'Mahmoud@22');
+define('DB_USER', 'MahmoudPHP'); //root
+define('DB_PASS', 'Mahmoud@22'); // empty
 define('DB_CHARSET', 'utf8mb4');
 
 /**
